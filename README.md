@@ -1,2 +1,3 @@
-# TestProject
-Testing projects- React projects
+- These Academic-projects are done for the learning purpose.
+- Some implementation of the projects may not be accurate.
+- Technology used to do these projects were: Python, Jupyter Notebook, R, and ML models.
