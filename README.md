@@ -1,6 +1,4 @@
-Here's a draft of the README for your "Academic-Projects" repository:
 
----
 
 # Academic Projects
 
