@@ -3,9 +3,7 @@ library(ggplot2)
 library(shinydashboard)
 library("ggcorrplot")
 
-
 data <- read.csv('winequality-white.csv')
-
 
 corr <- round(cor(data), 1)
 
@@ -18,7 +16,6 @@ rw_boxplot <- function (var_1, varName = '',
     labs(x = varName, y = varName1)
   plot(boxplot)
 }
-
 
 header <- dashboardHeader(title = 'DashBoard ')
 sidebarMenu <- dashboardSidebar(
